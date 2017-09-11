@@ -1,7 +1,7 @@
 # Development of Indoor Environment Condition Checking System with Smart Device
 
 ## Architecture & Flow  
-![](https://github.com/Tadoya/DIECAS/blob/master/img/architecture.png?raw=true)  
+![](https://github.com/Tadoya/DIECAS/blob/master/img/architecture1.png?raw=true)  
 ![](https://github.com/Tadoya/DIECAS/blob/master/img/flow.png?raw=true)
 
 ## Circuit Diagram
